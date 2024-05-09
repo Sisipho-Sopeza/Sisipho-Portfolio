@@ -707,7 +707,7 @@ section {
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
-  border: 1px solid #fff;
+  border: 5px solid #fff;
 }
 
 .services .icon {
@@ -739,8 +739,10 @@ section {
 }
 
 .services .description {
-  font-size: 15px;
-  line-height: 28px;
+  font-size: 50%;
+  height: 200px;
+  line-height: 10px;
+  font-weight: 800;
   margin-bottom: 0;
 }
 
